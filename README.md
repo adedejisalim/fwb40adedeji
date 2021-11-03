@@ -8,4 +8,4 @@ Food Class
 
 * Name
 * Color
-* Country of Origin
+* Rating(out of 10)
